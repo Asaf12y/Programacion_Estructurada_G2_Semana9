@@ -1,3 +1,6 @@
+
+
+
 Integrantes:
 
 \-Jean Asaf Martinez Montoya
@@ -7,6 +10,11 @@ Integrantes:
 \-Emanuel Josue Mendoza
 
 \-Chester Arguello
+
+### Roles del Equipo
+- **Coordinador y Desarrollo: Jean Asaf Martínez Montoya
+- **Desarrollo de Menús y Funciones: Jorge Isaac Castillo Suárez / Emanuel Josué Mendoza
+- **Pruebas y  Documentación: Chester Argüello
 
 
 
